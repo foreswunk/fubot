@@ -1,0 +1,85 @@
+Anglerfish
+Raw lobster
+Lobster
+Raw monkfish
+Monkfish
+Raw shark
+Shark
+Raw karambwan
+Karambwan
+Manta ray
+Raw anglerfish
+Ranging potion(3)
+Ranging potion(4)
+Divine ranging potion(3)
+Divine ranging potion(4)
+Saradomin brew(3)
+Saradomin brew(4)
+Super restore(3)
+Super restore(4)
+Super combat potion(3)
+Super combat potion(4)
+Divine super combat potion(3)
+Divine super combat potion(4)
+Stamina potion(3)
+Stamina potion(4)
+Prayer potion(3)
+Prayer potion(4)
+Energy potion(3)
+Energy potion(4)
+Amylase crystal
+Green dragonhide
+Green dragon leather
+Blue dragonhide
+Blue dragon leather
+Red dragonhide
+Red dragon leather
+Black dragonhide
+Black dragon leather
+Dragon bones
+Superior dragon bones
+Chinchompa
+Red chinchompa
+Black chinchompa
+Adamant dart
+Rune dart
+Dragon dart
+Dragon arrow
+Ruby dragon bolts
+Ruby dragon bolts (e)
+Diamond dragon bolts
+Diamond dragon bolts(e)
+Zulrah scales
+Dragon bolts
+Diamond bolts(e)
+Dragon bolts (unf)
+Maple longbow (u)        
+Maple longbow
+Yew logs
+Yew longbow (u)
+Yew longbow
+Magic logs
+Magic longbow (u)
+Magic longbow
+Adamant dart tip
+Rune dart tip
+Dragon dart tip
+Oak plank
+Teak plank
+Mahogany logs
+Mahogany plank
+Bow string
+Steel bar
+Coal
+Cannonball
+Mithril ore
+Mithril bar
+Adamantite ore
+Adamantite bar
+Runite ore
+Runite bar
+Amethyst
+Sapphire ring
+Emerald ring
+Ruby ring
+Diamond ring
