@@ -14,9 +14,9 @@ global bot
 bot = commands.Bot(command_prefix="-", help_command=None)
 
 #Test channel
-#bot_channel = bot.get_channel(800728465502502972)
+#bot_channel = bot.get_channel()
 #FU channel
-bot_channel = bot.get_channel(798289725391634443)
+bot_channel = bot.get_channel()
 
 #Test channel name
 #botchannelname = "bot-channel"
@@ -24,9 +24,9 @@ bot_channel = bot.get_channel(798289725391634443)
 botchannelname = "🤖bot-channel"
 
 #Test error
-#channelerrormessage = "Please use <#800728465502502972>"
+#channelerrormessage = "Please use <#>"
 #FU Error
-channelerrormessage = 'Please use <#798289725391634443>'
+channelerrormessage = 'Please use <#>'
 
 #Define return when command is not recognized
 @bot.event
