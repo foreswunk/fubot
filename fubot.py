@@ -5,9 +5,9 @@ import random
 import time
 
 #Test discord token
-#DiscordToken = 'ODAwODExNjI4Mjg2MTgxMzg3.YAXj8g.1mXxSA9iUI5_NDukWjEmRcJezKU'
+#DiscordToken = '.YAXj8g.'
 #FU discord token
-DiscordToken = 'ODAwNzA1OTc5ODY3ODU2OTE2.YAWBjQ.D2w0jkUp686bqlU_Jzi9BkEH_A8'
+DiscordToken = '.YAWBjQ.'
 
 #Define bot client, prefix and remove help command
 global bot
